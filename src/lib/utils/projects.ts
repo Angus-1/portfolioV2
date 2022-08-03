@@ -12,7 +12,7 @@ export const projects = [
 	{
 		heading: 'Flower game Jam Video Game',
 		content:
-			"Participated in game jam hosted by CSUF’s  video game development club, and worked in a two man team over 24 hours to program a complete video game.",
+			"Participated in game jam hosted by CSUF’s  video game development club, and worked in a two man team over 24 hours to create a complete video game.",
 		link: 'https://itch.io/c/2469944/spring-2022-vgdc-flower-jam'
 	},
 ];
