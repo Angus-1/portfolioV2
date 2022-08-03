@@ -12,7 +12,7 @@
     <section id = About> 
       <div class="about-container">
          <section>
-               <h2 class="about-title">About me</h2><br><br>
+               <h2 class="about-title">About me</h2><br>
                <div class = "header-image"></div>
                <div class="about-subtitle">
                    <p>
