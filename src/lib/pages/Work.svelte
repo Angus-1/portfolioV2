@@ -57,7 +57,7 @@
       employer: "ACM Fullerton",
       title: "Development Officer",
       startDate: new Date(2022, 3),
-      endDate: new Date(2020, 7),
+      endDate: new Date(2022, 7),
       tasks: [
         "Made contributions towards Cal-State-Fullerton's Chapter of Association  for Computing Machinery website's issues",
         "Hosted workshops and crash courses for students to learn development skills, concepts, and tools",
