@@ -1,17 +1,6 @@
 <script lang="ts" context="module">
   import type { LoadEvent, LoadOutput } from "@sveltejs/kit";
   import type { Repository } from "$lib/utils";
-
-  // SSR for Projects component
-  export async function load({
-    fetch,
-  }: LoadEvent): Promise<LoadOutput<Record<string, any>>> {
-    return {
-      props: {
-        repos: await fetch("/api/repos").then((res) => res.json()),
-      },
-    };
-  }
 </script>
 
 <script lang="ts">
@@ -25,7 +14,6 @@
 /* basic colors at  https://tailwindcss.com/docs/customizing-colors   more at  https://hypercolor.dev/   */ 
   let primaryBackground = "bg-gradient-to-r from-slate-900 to-blue-900";
   let neutralBackground = "bg-neutral-200 dark:bg-neutral-900";
-  export let repos: Repository[];
 </script>
 
 <SEO
