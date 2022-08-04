@@ -55,7 +55,7 @@
     },
     {
       employer: "ACM Fullerton",
-      title: "Development Officer ",
+      title: "Development Officer",
       startDate: new Date(2022, 3),
       endDate: new Date(2020, 7),
       tasks: [
