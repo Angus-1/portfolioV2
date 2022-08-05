@@ -1,6 +1,5 @@
 <script lang="ts" context="module">
-  import type { LoadEvent, LoadOutput } from "@sveltejs/kit";
-  import type { Repository } from "$lib/utils";
+
 </script>
 
 <script lang="ts">
