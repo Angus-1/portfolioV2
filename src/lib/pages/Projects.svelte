@@ -34,6 +34,7 @@
   border-radius: 10px;
   padding-left: 10px; 
   margin-bottom: 15rem;
+  font-size: 1.5rem;
  }
 
 </style>

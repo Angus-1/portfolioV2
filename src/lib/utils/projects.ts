@@ -15,4 +15,15 @@ export const projects = [
 			"Participated in game jam hosted by CSUF’s  video game development club, and worked in a two man team over 24 hours to create a complete video game.",
 		link: 'https://itch.io/c/2469944/spring-2022-vgdc-flower-jam'
 	},
+	{
+		heading: 'Pixel Painter',
+		content:
+			"Paint pixels on a grid and export your painting as an image/svg",
+		link: 'https://pixel-painter.vercel.app/'
+	},{
+		heading: 'Pizza maker ',
+		content:
+			"Draw your own pizza with some custom toppings!",
+		link: 'https://pizza-beige.vercel.app/'
+	},
 ];

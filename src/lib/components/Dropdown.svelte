@@ -134,7 +134,7 @@
 	}
 
 	.link-text:hover {
-		color: rgb(0, 232, 248);
+		color: rgb(117, 196, 248);
 		
 	}
 
