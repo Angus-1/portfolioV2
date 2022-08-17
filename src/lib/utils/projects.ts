@@ -26,4 +26,10 @@ export const projects = [
 			"Draw your own pizza with some custom toppings!",
 		link: 'https://pizza-beige.vercel.app/'
 	},
+	{
+		heading: 'Fun Finder ',
+		content:
+			"Get some random ideas to go out and have some fun!",
+		link: 'https://fun--finder.vercel.app/'
+	},
 ];
