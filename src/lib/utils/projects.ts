@@ -20,11 +20,6 @@ export const projects = [
 		content:
 			"Paint pixels on a grid and export your painting as an image/svg",
 		link: 'https://pixel-painter.vercel.app/'
-	},{
-		heading: 'Pizza maker ',
-		content:
-			"Draw your own pizza with some custom toppings!",
-		link: 'https://pizza-beige.vercel.app/'
 	},
 	{
 		heading: 'Fun Finder ',
