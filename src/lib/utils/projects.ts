@@ -30,7 +30,7 @@ export const projects = [
 	{
 		heading: 'Image Compressor ',
 		content:
-			"Webpage to compress image file sizes made using react.",
+			"Browser image file size compressor made using react.",
 		link: 'https://image--compressor.vercel.app/'
 	},
 	{
