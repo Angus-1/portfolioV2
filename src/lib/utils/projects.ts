@@ -33,4 +33,10 @@ export const projects = [
 			"Webpage to compress image file sizes made using react.",
 		link: 'https://image--compressor.vercel.app/'
 	},
+	{
+		heading: 'Color Gradient craze ',
+		content:
+			"Webpage that displays some of my favor color gradients, allows you to generate new gradients and css code for them.",
+		link: 'https://color-craze.vercel.app/'
+	},
 ];
