@@ -5,9 +5,16 @@ export const projects = [
 		link: 'https://acmcsuf.com/'
 	},
 	{
-		heading: ' Electric Vehicle Savings Website',
-		content: 'Allows user to see potential savings from switching from gasoline to electric vehicles through backend calculations and certain user inputs,',
-		link: 'https://ev-savings-frontend.vercel.app/'
+		heading: 'Image Compressor ',
+		content:
+			"Browser image file size compressor made using react.",
+		link: 'https://image--compressor.vercel.app/'
+	},
+	{
+		heading: 'CSS Gradient Generator ',
+		content:
+			"Webpage that displays some of my favor color gradients, allows you to generate new gradients and css code for them.",
+		link: 'https://color-craze.vercel.app/'
 	},
 	{
 		heading: 'Flower game Jam Video Game',
@@ -22,21 +29,15 @@ export const projects = [
 		link: 'https://pixel-painter.vercel.app/'
 	},
 	{
+		heading: ' Electric Vehicle Savings Website',
+		content: 'Allows user to see potential savings from switching from gasoline to electric vehicles through backend calculations and certain user inputs,',
+		link: 'https://ev-savings-frontend.vercel.app/'
+	},
+	{
 		heading: 'Fun Finder ',
 		content:
 			"Get some random ideas to go out and have some fun with your date or friends!",
 		link: 'https://fun--finder.vercel.app/'
 	},
-	{
-		heading: 'Image Compressor ',
-		content:
-			"Browser image file size compressor made using react.",
-		link: 'https://image--compressor.vercel.app/'
-	},
-	{
-		heading: 'CSS Gradient Generator ',
-		content:
-			"Webpage that displays some of my favor color gradients, allows you to generate new gradients and css code for them.",
-		link: 'https://color-craze.vercel.app/'
-	},
+	
 ];
