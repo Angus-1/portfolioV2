@@ -34,7 +34,7 @@ export const projects = [
 		link: 'https://image--compressor.vercel.app/'
 	},
 	{
-		heading: 'Color Gradient craze ',
+		heading: 'CSS Gradient Generator ',
 		content:
 			"Webpage that displays some of my favor color gradients, allows you to generate new gradients and css code for them.",
 		link: 'https://color-craze.vercel.app/'
