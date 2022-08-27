@@ -27,4 +27,10 @@ export const projects = [
 			"Get some random ideas to go out and have some fun!",
 		link: 'https://fun--finder.vercel.app/'
 	},
+	{
+		heading: 'Image Compressor ',
+		content:
+			"Webpage to compress image file sizes made using react.",
+		link: 'https://image--compressor.vercel.app/'
+	},
 ];
