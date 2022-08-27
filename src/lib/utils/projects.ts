@@ -24,7 +24,7 @@ export const projects = [
 	{
 		heading: 'Fun Finder ',
 		content:
-			"Get some random ideas to go out and have some fun!",
+			"Get some random ideas to go out and have some fun with your date or friends!",
 		link: 'https://fun--finder.vercel.app/'
 	},
 	{
