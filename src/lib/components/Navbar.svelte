@@ -24,18 +24,12 @@
       route: "/home",
       name: "home",
       title: "Home",
-    },
-    {
-      id: "#about",
-      route: "/about",
-      name: "about",
-      title: "About Me",
-    },
+    }, 
     {
       id: "#work",
       route: "/work",
       name: "work",
-      title: "Work Experience",
+      title: "Experience",
     },
     {
       id: "#projects",
@@ -48,6 +42,12 @@
       route: "/skills",
       name: "skills",
       title: "Skills",
+    },
+    {
+      id: "#about",
+      route: "/about",
+      name: "about",
+      title: "About",
     },
   ];
   const menuDuration = 200;

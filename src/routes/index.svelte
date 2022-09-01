@@ -22,11 +22,13 @@
 />
 
 <Home />
-<!--About me/bio-->
-<About backgroundClass={primaryBackground} />
+
+
 <!--Work Experience-->
 <Work backgroundClass={neutralBackground} />
 <!-- Starred Projects from Github -->
 <Projects backgroundClass={primaryBackground}  />
 <!--Technologies I've worked with-->
 <Skills backgroundClass={neutralBackground} />
+<!--About me/bio-->
+<About backgroundClass={primaryBackground} />
