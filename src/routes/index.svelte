@@ -9,6 +9,7 @@
   import About from "$lib/pages/About.svelte";
   import Home from "$lib/pages/Home.svelte";
   import Projects from "$lib/pages/Projects.svelte";
+  import Footer from "$lib/pages/Footer.svelte";
 
 /* basic colors at  https://tailwindcss.com/docs/customizing-colors   more at  https://hypercolor.dev/   */ 
   let primaryBackground = "bg-gradient-to-r from-slate-900 to-blue-900";
@@ -32,3 +33,4 @@
 <Skills backgroundClass={neutralBackground} />
 <!--About me/bio-->
 <About backgroundClass={primaryBackground} />
+<Footer  />
