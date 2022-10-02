@@ -5,13 +5,15 @@
   const skills: Array<string> = [
     "Python",
     "Java",
-    "SQL",
     "C++",
-    "C#",
     "Javascript",
     "Svelte",
+    "React",
     "HTML",
     "CSS",
+    "Tailwind",
+    "SQL",
+    "Firebase",
     
   ];
 
