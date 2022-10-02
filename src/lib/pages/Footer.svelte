@@ -32,6 +32,11 @@
       iconClass: "fa-2x far fa-envelope",
       name: "Email",
     },
+    spotify: {
+      link: "https://open.spotify.com/user/santoyox714",
+      iconClass: "fa-2x far fa-envelope",
+      name: "Spotify",
+    },
   };
 </script>
 <Footer id="Footer" >
@@ -44,7 +49,7 @@
         <footer>
             <div class="footer-content">
                 <h3>Angel Santoyo</h3>
-                <p>Feel free to check out my other projects or contact me below</p>
+                <p>Feel free to check out my other socials or contact me below</p>
             </div>
     <div class='w-full h-px m-auto bg-gradient-to-r from-transparent via-gray-700 to-transparent'></div>
     <div class='flex flex-col items-center gap-6 md:flex-row md:justify-between'>
@@ -112,6 +117,10 @@
             />
           </svg>
         </IconButton>
+
+
+
+      
       </div>
     </div>
   </footer>
