@@ -114,7 +114,7 @@
 <style>
   #bg {
     /* The image used background-image: url("/assets/images/background1.jpg"); */
-    background-image: radial-gradient(circle,#20b5e2, rgb(12, 90, 192),rgb(108, 226, 255));
+    background-image: radial-gradient(circle,#2064e2, rgb(22, 81, 158),rgb(38, 67, 75));
     
   }
 
