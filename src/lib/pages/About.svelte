@@ -24,7 +24,7 @@
                    
                   I'm a first generation student majoring in computer science at California State University, Fullerton. <br><br>
                   
-                  I really enjoy learning new concepts on a regular basis, some fields I find pretty interesting to research in my free time are web development, game development, and occasionally cyber security. <br><br>
+                  I really enjoy learning new concepts on a regular basis, some topics I find pretty interesting to research in my free time are web development, game development, and occasionally cyber security. <br><br>
                  
                   Outside of school I like to play video games, learn about cars, lift weights, listen to many types of music genres, and try new foods. My favorite game franchise is the Elder Scrolls series and my favorite food is Sushi! 
                     
