@@ -9,6 +9,7 @@
     "Javascript",
     "Svelte",
     "React",
+    "Astro",
     "HTML",
     "CSS",
     "Tailwind",
