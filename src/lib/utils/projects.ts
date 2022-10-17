@@ -14,6 +14,13 @@ export const projects = [
 
 	},
 	{
+		heading: 'Object Detection',
+		content:
+			"Object detection webpage that tries to localize and identify multiple objects in a single image snapshot",
+		link: 'https://object-detectionz.vercel.app/',
+		image: '',
+	},
+	{
 		heading: 'CSS Gradient Generator ',
 		content:
 			"Webpage that displays some of my favor color gradients, allows you to generate new gradients and css code for them.",
