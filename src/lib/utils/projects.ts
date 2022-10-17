@@ -1,7 +1,7 @@
 export const projects = [
 	{
 		heading: 'AcmCSUF.com Website',
-		content:'Made changes to ACM Fullerton club website through github, used NodeJS and Svelte-kit to incorporate new features.',
+		content:'Merged updates to ACM website using Github’s code review and submission technology including git, push, pull, commit',
 		link: 'https://acmcsuf.com/',
 		image: '',
 	},
