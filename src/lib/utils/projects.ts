@@ -31,7 +31,7 @@ export const projects = [
 	{
 		heading: 'Flower game Jam Video Game',
 		content:
-			"Participated in game jam hosted by CSUF’s  video game development club, and worked in a two man team over 24 hours to create a complete video game.",
+			"Integrated collision mechanics, as well as procedurally generated randomization spawns of objects, in C#/Unity",
 		link: 'https://itch.io/c/2469944/spring-2022-vgdc-flower-jam',
 		image: '',
 
@@ -39,7 +39,7 @@ export const projects = [
 	{
 		heading: 'Pixel Painter',
 		content:
-			"Paint pixels on a grid and export your painting as an image/svg",
+			"Paint pixels on a 16x16 grid and export your art as an image/svg",
 		link: 'https://pixel-painter.vercel.app/',
 		image: '',
 
