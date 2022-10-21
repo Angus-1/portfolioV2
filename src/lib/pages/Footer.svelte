@@ -32,11 +32,7 @@
       iconClass: "fa-2x far fa-envelope",
       name: "Email",
     },
-    spotify: {
-      link: "https://open.spotify.com/user/santoyox714",
-      iconClass: "fa-2x far fa-envelope",
-      name: "Spotify",
-    },
+    
   };
 </script>
 <Footer id="Footer" >
