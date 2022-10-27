@@ -14,6 +14,13 @@ export const projects = [
 
 	},
 	{
+		heading: 'Serverless File storage',
+		content:
+			"Allows users to create an account to upload/download files from any device",
+		link: 'https://filey.vercel.app/login',
+		image: '',
+	},
+	{
 		heading: 'Object Detection',
 		content:
 			"Object detection webpage that tries to localize and identify multiple objects in a single image snapshot",
@@ -29,7 +36,7 @@ export const projects = [
 
 	},
 	{
-		heading: 'Flower game Jam Video Game',
+		heading: 'CSUF Game Jam',
 		content:
 			"Integrated collision mechanics, as well as procedurally generated randomization spawns of objects, in C#/Unity",
 		link: 'https://itch.io/c/2469944/spring-2022-vgdc-flower-jam',
@@ -45,7 +52,7 @@ export const projects = [
 
 	},
 	{
-		heading: ' Electric Vehicle Savings Website',
+		heading: ' EV savings',
 		content: 'Allows user to see potential savings from switching from gasoline to electric vehicles through backend calculations and certain user inputs,',
 		link: 'https://ev-savings-frontend.vercel.app/',
 		image: '',
@@ -58,5 +65,6 @@ export const projects = [
 		link: 'https://fun--finder.vercel.app/',
 		image: '',
 	},
+	
 	
 ];
