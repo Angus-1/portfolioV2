@@ -8,7 +8,7 @@ export const projects = [
 	{
 		heading: 'Image Compressor ',
 		content:
-			"Browser image file size compressor made using react.",
+			"Minimize file size of images in bytes without degrading image quality below an acceptable threshold",
 		link: 'https://image--compressor.vercel.app/',
 		image: '',
 
@@ -16,7 +16,7 @@ export const projects = [
 	{
 		heading: 'Serverless File storage',
 		content:
-			"Allows users to create an account to transfer files from any device",
+			"Create an account to upload/download files from any device",
 		link: 'https://filey.vercel.app/login',
 		image: '',
 	},
@@ -30,7 +30,7 @@ export const projects = [
 	{
 		heading: 'CSS Gradient Generator ',
 		content:
-			"Webpage that displays some of my favor color gradients, allows you to generate new gradients and css code for them.",
+			"Displays some of my favor color gradients, allows you to generate new gradients and color codes for them.",
 		link: 'https://color-craze.vercel.app/',
 		image: '',
 
@@ -53,7 +53,7 @@ export const projects = [
 	},
 	{
 		heading: ' EV savings',
-		content: 'Allows user to see potential savings from switching from gasoline to electric vehicles through backend calculations and certain user inputs,',
+		content: 'See potential savings from switching from gasoline to electric vehicles through backend calculations and certain user inputs,',
 		link: 'https://ev-savings-frontend.vercel.app/',
 		image: '',
 
