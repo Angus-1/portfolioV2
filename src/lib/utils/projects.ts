@@ -16,7 +16,7 @@ export const projects = [
 	{
 		heading: 'Serverless File storage',
 		content:
-			"Allows users to create an account to upload/download files from any device",
+			"Allows users to create an account to transfer files from any device",
 		link: 'https://filey.vercel.app/login',
 		image: '',
 	},
