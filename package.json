@@ -46,6 +46,7 @@
   },
   "type": "module",
   "dependencies": {
+    "svelte-collapsible-card": "^0.0.2",
     "svelte-qrcode-image": "^1.0.0-rc.2"
   }
 }
