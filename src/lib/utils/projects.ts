@@ -39,8 +39,8 @@ export const projects = [
 		heading: 'CSUF Game Jam',
 		content:
 			"Integrated collision mechanics, as well as procedurally generated randomization spawns of objects, in C#/Unity",
-		link: 'https://itch.io/c/2469944/spring-2022-vgdc-flower-jam',
-		image: 'projects/gameJam.png',
+		link: 'https://itch.io/queue/c/2469944/spring-2022-vgdc-flower-jam?game_id=1491257',
+		image: 'projects/game.png',
 
 	},
 	{
