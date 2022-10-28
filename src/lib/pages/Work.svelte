@@ -60,8 +60,9 @@
       endDate: new Date(2022, 7),
       tasks: [
         "Made contributions towards Cal-State-Fullerton's Chapter of Association  for Computing Machinery website's issues",
-        "Hosted workshops and crash courses for students to learn development skills, concepts, and tools",
+        " Design and present engaging workshops and crash courses for other students to learn the basics of web development concepts and tools",
         "Attended weekly meeings to discuss current github issues that need resolving",
+       
       ],
       tags: ["Github", "Web Development",],
     },
@@ -88,7 +89,7 @@
         "Assisted students with the Java Programming language and its features",
         "Facilitated other students programming projects to confirm they were on course",
       ],
-      tags: ["C++", "Java", "Tutor",],
+      tags: ["C++", "Java"],
     },
   ];
 
