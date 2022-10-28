@@ -33,10 +33,10 @@
               { project.content } <br><br>
 
               <a href={project.link} class="link-text" target="_blank" rel="noopener noreferrer">
-                <p> <img src={project.image} alt="image here" width=900 > </p> </a>
+               <div class = "image "> <img src={project.image} alt="image here" width=900 > </div>   
                 <br>  <br>
-              
-            </div>
+              </div>
+            
         
           </CollapsibleCard>
         </li>
@@ -75,6 +75,7 @@
 		display: flex;
     background-color: #1F2937;
     border-radius: 10px;
+    
 	}
   .header:hover{
     background-color: #2b3d57;
@@ -101,8 +102,16 @@
 	}
 	
 	.body {
-    padding: 0 0 3em 3em;
+    padding: 0 0 0 0em;
+    text-align: center;
+    display: block;
+
 	}
+  .image
+  {
+    display: flex;
+      justify-content: center;
+  }
  
 
 
