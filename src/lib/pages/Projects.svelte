@@ -60,7 +60,7 @@
     font-weight:bold;
     background-color:#0e213b;
     border-radius: 10px;
-
+    
 	}
 	
 	li {
@@ -105,7 +105,7 @@
     padding: 0 0 0 0em;
     text-align: center;
     display: block;
-
+    padding-top: 20px;
 	}
   .image
   {
