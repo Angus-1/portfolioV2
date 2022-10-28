@@ -60,7 +60,7 @@
       endDate: new Date(2022, 7),
       tasks: [
         "Made contributions towards Cal-State-Fullerton's Chapter of Association  for Computing Machinery website's issues",
-        " Design and present engaging workshops and crash courses for other students to learn the basics of web development concepts and tools",
+        "Design and present engaging workshops and crash courses for other students to learn the basics of web development concepts and tools",
         "Attended weekly meeings to discuss current github issues that need resolving",
        
       ],
