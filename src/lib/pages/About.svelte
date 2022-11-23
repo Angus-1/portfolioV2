@@ -11,27 +11,25 @@
 
 <Page id="about" title=" " {backgroundClass}>
   <Text>
-    <section id = About> 
+    <section id = About>
       <div class="about-container">
          <section>
           
                <div class="about-title">About me</div>
-
                <div class = "header-image">   <img src = 'profile.png'width="250px"  alt=linkedin/>    </div>                  
-                      
-               
                <div class="about-subtitle">
                    
-                  I'm a first generation student majoring in computer science at California State University, Fullerton. <br><br>
+                  Hello! I'm currently studying computer science at California State University, Fullerton. <br><br><br>
                   
-                  I really enjoy learning new concepts on a regular basis, some topics I find pretty interesting to research in my free time are web development, game development, and occasionally cyber security. <br><br>
+                 My interests include web development, game dev/design,  and security. <br><br><br>
                  
-                  Outside of school I like to play video games, learn about cars, lift weights, listen to many types of music genres, and try new foods. My favorite game franchise is the Elder Scrolls series and my favorite food is Sushi! 
+                 In my free time I like to play video games, learn about cars, lift weights, listen to music, and try new foods. My favorite game franchise is the Elder Scrolls series and my favorite food is Sushi! 🍣<br><br>
                     
              </div>
            </section>
       </div>
       </section>
+      
   </Text>
 </Page>
 <style>
@@ -39,7 +37,7 @@
 
 .about-container {
       position: relative;
-      background-color: #192a4e; 
+      background-color: #1F2937; 
       background-position-x: right; 
       border-radius: 10px;
       padding-left: 20px;
@@ -55,7 +53,7 @@
    }
    
    .about-subtitle {
-       width: 70%;
+       width: 90%;
        font-weight: 500;
        font-size: 1.5rem;
        line-height: 2rem;
@@ -63,7 +61,11 @@
    }
  
  img{
-  border-radius: 10%;
+  border-radius: 50%;
   margin-left:2rem;
+  float:left;
+  margin-right:15px;
+  border-color:#4370d1;
+  border-width: 4px;
  }
 </style>
