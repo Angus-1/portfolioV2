@@ -65,6 +65,14 @@ export const projects = [
 		link: 'https://fun--finder.vercel.app/',
 		image: 'projects/idea.png',
 	},
+	{
+		heading: 'Resources',
+		content:
+			"A list of resources I've found useful or interesting.",
+		link: 'https://resource-astro.vercel.app/',
+		image: 'projects/resources.png',
+	},
+	
 	
 	
 ];
