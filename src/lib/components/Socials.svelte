@@ -6,7 +6,7 @@
 
     let colorClass = `${color} ${hover}`;
     let spacingClass = "mx-5";
-    export let sizeClass = "h-14 w-11";
+    export let sizeClass = "h-12 w-11";
   
 
     
