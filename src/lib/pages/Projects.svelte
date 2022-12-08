@@ -31,12 +31,16 @@
             </div>
             <div slot='body' class='body'>
               { project.content } <br><br>
-
+   
               <a href={project.link} class="link-text" target="_blank" rel="noopener noreferrer">
-               <div class = "image "> <img src={project.image} alt="image here" width=900 > </div>   
-                <br>  <br>
+               <div class = "image-container">
+                <div class="image-hover"> 
+                 <img src={project.image} alt="image here" width=900 > 
+                </div>
+                </div>   
+                <br><br>
               </div>
-            
+          
         
           </CollapsibleCard>
         </li>
@@ -107,12 +111,16 @@
     display: block;
     padding-top: 20px;
 	}
-  .image
+  .image-container
   {
-    display: flex;
+      display: flex;
       justify-content: center;
+      
   }
- 
+  .image-hover:hover{
+    box-shadow: 5px 10px 15px #89d9ff;
+    border-radius:10px;
+	}
 
 
 
