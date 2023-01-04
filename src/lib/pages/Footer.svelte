@@ -16,7 +16,7 @@
     <div class='w-full h-px m-auto bg-gradient-to-r from-transparent via-gray-700 to-transparent'></div>
     <div class='flex flex-col items-center md:flex-row md:justify-between'>
       <div class=copyright>
-        <p>  &#169; 2022 </p>
+        <p>  &#169; 2023 </p>
       </div>  
       <Socials/>
     </div>
