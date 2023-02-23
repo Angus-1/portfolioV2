@@ -21,7 +21,7 @@ export const projects = [
 		image: 'projects/filey.png',
 	},
 	{
-		heading: 'Chat-Pigeon',
+		heading: 'Chat Pigeon',
 		content:
 			"A simple chat forum with google sign-in authentication.",
 		link: 'https://chatpigeon.vercel.app/',
