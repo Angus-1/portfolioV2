@@ -21,6 +21,13 @@ export const projects = [
 		image: 'projects/filey.png',
 	},
 	{
+		heading: 'Chat-Pigeon',
+		content:
+			"A simple chat forum with google sign-in authentication.",
+		link: 'https://chatpigeon.vercel.app/',
+		image: 'projects/chat.png',
+	},
+	{
 		heading: 'Object Detection',
 		content:
 			"Object detection webpage that tries to localize and identify multiple objects in a single image snapshot",
@@ -41,7 +48,6 @@ export const projects = [
 			"Integrated collision mechanics, as well as procedurally generated randomization spawns of objects, in C#/Unity",
 		link: 'https://itch.io/queue/c/2469944/spring-2022-vgdc-flower-jam?game_id=1491257',
 		image: 'projects/game.png',
-
 	},
 	{
 		heading: 'Pixel Painter',
@@ -72,6 +78,7 @@ export const projects = [
 		link: 'https://resource-astro.vercel.app/',
 		image: 'projects/resources.png',
 	},
+	
 	
 	
 	
