@@ -49,7 +49,7 @@
         event: "PicoCTF 2023",
         title: "Participant",
         date: new Date(2023, 3),
-        tasks: ["Apply skills in cybersecurity, such as web exploitation to complete challenges in a timed competition.",],
+        tasks: ["Apply skills in cybersecurity, such as web exploitation to complete challenges in a timed competition",],
         tags: [
             "CTF","Cybersecurity","Web-security",
         ],
