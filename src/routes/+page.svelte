@@ -4,11 +4,12 @@
 
 <script lang="ts">
   import SEO from "svelte-seo";
-  import Skills from "$lib/pages/Skills.svelte";
-  import Work from "$lib/pages/Work.svelte";
-  import About from "$lib/pages/About.svelte";
   import Home from "$lib/pages/Home.svelte";
+  import Work from "$lib/pages/Work.svelte";
   import Projects from "$lib/pages/Projects.svelte";
+  import Events from "$lib/pages/Events.svelte";
+  import Skills from "$lib/pages/Skills.svelte";
+  import About from "$lib/pages/About.svelte";
   import Footer from "$lib/pages/Footer.svelte";
 
 /* basic colors at  https://tailwindcss.com/docs/customizing-colors   more at  https://hypercolor.dev/   */ 
@@ -26,6 +27,8 @@
 
 <Work backgroundClass={neutralBackground} />
 <Projects backgroundClass={primaryBackground}  />
-<Skills backgroundClass={neutralBackground} />
-<About backgroundClass={primaryBackground} />
+<Events backgroundClass={neutralBackground} />
+<Skills backgroundClass={primaryBackground} />
+
+<About backgroundClass={neutralBackground} />
 <Footer  />
