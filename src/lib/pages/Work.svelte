@@ -60,8 +60,8 @@
       endDate: new Date(2022, 7),
       tasks: [
         "Made contributions towards Cal-State-Fullerton's Chapter of Association  for Computing Machinery website's issues",
-        "Design and present engaging workshops and crash courses for other students to learn the basics of web development concepts and tools",
-        "Attended weekly meeings to discuss current github issues that need resolving",
+        "Delivered weekly educational workshops to students on various topics such in web development, such as leveraging APIs and understanding HTTP",
+        "Oversaw semester-long projects and offered technical advice to aid team members in completing their personal projects ",
        
       ],
       tags: ["Github", "Web Development",],
