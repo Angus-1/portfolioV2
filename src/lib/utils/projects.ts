@@ -75,7 +75,7 @@ export const projects = [
 		heading: 'Resources',
 		content:
 			"A list of resources I've found useful or interesting.",
-		link: 'https://resource-astro.vercel.app/',
+		link: 'https://resources.monkeyy.net/',
 		image: 'projects/resources.png',
 	},
 	
