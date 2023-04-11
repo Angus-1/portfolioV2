@@ -28,6 +28,13 @@ export const projects = [
 		image: 'projects/chat.png',
 	},
 	{
+		heading: 'chadGPT',
+		content:
+			"chatGPT chatbot that acts like a giga chad, hence the name chadGPT",
+		link: 'https://chadgpt.monkeyy.net/',
+		image: 'projects/chadGPT.png',
+	},
+	{
 		heading: 'Object Detection',
 		content:
 			"Object detection webpage that tries to localize and identify multiple objects in a single image snapshot",
@@ -77,7 +84,8 @@ export const projects = [
 			"A list of resources I've found useful or interesting.",
 		link: 'https://resources.monkeyy.net/',
 		image: 'projects/resources.png',
-	},
+	},	
+	
 	
 	
 	

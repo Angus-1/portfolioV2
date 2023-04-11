@@ -65,8 +65,8 @@
         event: "Fully Hacks 2023", 
         title: "Operations Manager", 
         date: new Date(2023, 4),  
-        tasks: ["Oversee the logistical and organizational aspects of FullyHacks, a hackathon event at CSUF, ensuring seamless execution and timely delivery of all event components",
-        "Initiate and maintain communication with potential sponsors for FullyHacks, leveraging networking skills to secure sponsorships and support for the events"
+        tasks: ["Oversee the logistical and organizational aspects of FullyHacks, a hackathon event at CSUF with over 200 students",
+        "Initiate and maintain communication with potential sponsors for FullyHacks, leveraging networking skills to secure sponsorships and support for the events from companies, including Redbull, Celsuis, Wolfram, .xyz domains, Stickermule, Balsamiq, Prisma, Echo3D and Digital Ocean "
     
     ],
         tags: ["Hackathon",],
