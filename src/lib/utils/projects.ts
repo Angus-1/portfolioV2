@@ -82,7 +82,7 @@ export const projects = [
 		heading: 'Resources',
 		content:
 			"A list of resources I've found useful or interesting.",
-		link: 'https://resources.monkeyy.net/',
+		link: 'https://list.angs.dev/',
 		image: 'projects/resources.png',
 	},	
 	
