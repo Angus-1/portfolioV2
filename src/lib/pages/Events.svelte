@@ -70,6 +70,14 @@
     
     ],
         tags: ["Hackathon",],
+      },  {
+        event: "HackDavis 2023", 
+        title: "Participant", 
+        date: new Date(2023, 5),  
+        tasks: ["Event upcoming :) "
+    
+    ],
+        tags: ["Hackathon",],
       },
    
     ];
