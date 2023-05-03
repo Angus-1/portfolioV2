@@ -42,10 +42,10 @@ export const projects = [
 		image: 'projects/detect.png',
 	},
 	{
-		heading: 'Gradient Generator ',
+		heading: ' CSS Gradient Generator ',
 		content:
 			"Displays some of my favor color gradients, allows you to generate new gradients and color codes for them.",
-		link: 'https://color-craze.vercel.app/',
+		link: 'https://colorz.angs.dev/',
 		image: 'projects/gradient.png',
 
 	},
