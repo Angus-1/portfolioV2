@@ -58,7 +58,7 @@
         event: "LA Hacks 2023", 
         title: "Participant", 
         date: new Date(2023, 4),  
-        tasks: ["Event upcoming :)",],
+        tasks: ["Developed a web application over 24 hours to output information on a location search input. This includes popular attractions, historical summary and geographical summary.",],
         tags: ["Hackathon",],
       },
       {
