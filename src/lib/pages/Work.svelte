@@ -35,6 +35,19 @@
   }
   const jobs: Array<Job> = [
     {
+      employer: "Niagara Bottling",
+      title: "Information Technology Intern",
+      startDate: new Date(2023, 4),
+      endDate: new Date(2023, 8),
+      
+      tasks: [
+        ":D",       
+      ],
+      tags: [
+        "",
+      ],
+    },
+    {
       employer: "Ingram Micro",
       title: "Oracle Database Intern",
       startDate: new Date(2022, 5),
@@ -59,7 +72,6 @@
       startDate: new Date(2022, 3),
       endDate: new Date(2022, 7),
       tasks: [
-        "Made contributions towards Cal-State-Fullerton's Chapter of Association  for Computing Machinery website's issues",
         "Delivered weekly educational workshops to students on various topics such in web development, such as leveraging APIs and understanding HTTP",
         "Oversaw semester-long projects and offered technical advice to aid team members in completing their personal projects ",
        
