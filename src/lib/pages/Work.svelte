@@ -67,7 +67,7 @@
       ],
     },
     {
-      employer: "Association for Computing Machinery, Fullerton",
+      employer: "Association for Computing Machinery, CSU-Fullerton",
       title: "Development Officer",
       startDate: new Date(2022, 3),
       endDate: new Date(2022, 7),
