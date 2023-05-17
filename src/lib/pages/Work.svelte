@@ -78,31 +78,6 @@
       ],
       tags: ["Github", "Web Development",],
     },
-    {
-      employer: "Db&M Media",
-      title: "Data entry and web research specialist",
-      startDate: new Date(2021, 8),
-      endDate: new Date(2022, 3),
-      tasks: [
-        "Responsible for creating and maintaining potential client database of over 2000 potential clients",
-        "Incorporated a digital filing system that improved clientele follow-up rates",
-        "Researched and compiled data on potential high value buyers for company services",
-        "Automated process of data entry to be more efficient",
-      ],
-      tags: ["Python", "Excel","Data Entry"],
-    },
-    {
-      employer: "Santa Ana College Computing Center ",
-      title: "Student Tutor",
-      startDate: new Date(2019, 1),
-      endDate: new Date(2020, 1),
-      tasks: [
-        "Explained different tiers of C++,such as intro to programming, Programming Concepts and Data Structures to other students",
-        "Assisted students with the Java Programming language and its features",
-        "Facilitated other students programming projects to confirm they were on course",
-      ],
-      tags: ["C++", "Java"],
-    },
   ];
 
   export let backgroundClass = neutralBackground;
