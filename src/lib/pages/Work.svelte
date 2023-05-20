@@ -48,6 +48,19 @@
       ],
     },
     {
+      employer: "California State University, Fullerton",
+      title: "Assure-US Summer Research Peer Mentor",
+      startDate: new Date(2023, 4),
+      endDate: new Date(2023, 6),
+      
+      tasks: [
+        ":D",       
+      ],
+      tags: [
+        "",
+      ],
+    },
+    {
       employer: "Ingram Micro",
       title: "Oracle Database Intern",
       startDate: new Date(2022, 5),
