@@ -1,9 +1,9 @@
 export const projects = [
 	{
-		heading: 'AcmCSUF.com Website',
-		content:'Merged updates to ACM website using Github’s code review and submission technology including git, push, pull, commit',
-		link: 'https://acmcsuf.com/',
-		image: 'projects/acm.png',
+		heading: 'Blog',
+		content:'Just some write ups on random things I find interesting',
+		link: 'https://blog.angs.dev/',
+		image: 'projects/blog.png',
 	},
 	{
 		heading: 'Image Compressor ',
