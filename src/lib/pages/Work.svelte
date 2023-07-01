@@ -36,28 +36,17 @@
   const jobs: Array<Job> = [
     {
       employer: "Niagara Bottling",
-      title: "Information Technology Intern",
+      title: "IT Infrastructure Intern",
       startDate: new Date(2023, 4),
       endDate: new Date(2023, 8),
       
       tasks: [
-        ":D",       
+        "Develop REST API automation scripts that extracted relevant data from the Active Directory to implement cyber hygiene practices, effectively eliminating inactive accounts from Niagara's primary ticketing application and improving system performance of an enterprise level application",
+        "Create and document repeatable processes and tools for IT System Admin and SOC team",
+        "Develop a comprehensive master document detailing the implementation of Duo multifactor authentication across diverse user groups and applications in the network. Examined varying permission levels and their implications for cybersecurity measures."
       ],
       tags: [
         "",
-      ],
-    },
-    {
-      employer: "California State University, Fullerton",
-      title: "Assure-US Summer Research Peer Mentor",
-      startDate: new Date(2023, 4),
-      endDate: new Date(2023, 6),
-      
-      tasks: [
-        ":D",       
-      ],
-      tags: [
-        "Research",
       ],
     },
     {
