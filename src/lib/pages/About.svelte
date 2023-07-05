@@ -21,9 +21,9 @@
                    
                   Hello! I'm currently studying computer science at California State University, Fullerton. <br><br><br>
                   
-                 My interests include web development, game dev/design,  and web security. <br><br><br>
+                 My interests include web development, and web security. <br><br><br>
                  
-                 In my free time I like to play video games, learn about cars, lift weights, listen to music, and try new foods. My favorite game franchise is the Elder Scrolls series and my favorite food is Sushi! 🍣<br><br>
+                 In my free time I like to lift weights, go dancing, see live music, play video games, learn about cars, and try new foods. My favorite game is the Elder Scrolls series and my favorite food is Sushi! <br><br>
                     
              </div>
            </section>
