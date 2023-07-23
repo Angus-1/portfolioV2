@@ -15,7 +15,7 @@
     "Tailwind",
     "SQL",
     "Firebase",
-    
+    "Active Directory"
   ];
 
   export let backgroundClass = neutralBackground;
