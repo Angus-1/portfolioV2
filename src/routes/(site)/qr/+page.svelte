@@ -1,7 +1,7 @@
 <script lang="ts">
     import Page from "$lib/components/Page.svelte";
     import { QRCodeImage } from "svelte-qrcode-image";
-    let portfolio_url ="https://www.angelsantoyo.com/"
+    let portfolio_url ="https://www.angs.dev/"
     import Text from "$lib/components/Text.svelte";
 
 
