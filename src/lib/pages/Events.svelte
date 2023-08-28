@@ -60,8 +60,16 @@
         "Initiate and maintain communication with potential sponsors for FullyHacks, leveraging networking skills to secure sponsorships and support for the events from companies, including Redbull, Celsius, Wolfram, .xyz domains, Stickermule, Balsamiq, Prisma, Echo3D and Digital Ocean "
     
     ],
+        tags: ["Convention",],
+      }, {
+        event: "DEFCON 31", 
+        title: "attendee", 
+        date: new Date(2023, 8),  
+        tasks: ["Had a great time learning about security!",
+    
+    ],
         tags: ["Hackathon",],
-      },  
+      },    
    
     ];
   
