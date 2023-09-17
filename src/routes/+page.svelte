@@ -27,8 +27,8 @@
 
 <Work backgroundClass={neutralBackground} />
 <Projects backgroundClass={primaryBackground}  />
-<Events backgroundClass={neutralBackground} />
 <Skills backgroundClass={primaryBackground} />
-
+<Events backgroundClass={neutralBackground} />
 <About backgroundClass={neutralBackground} />
+
 <Footer  />
