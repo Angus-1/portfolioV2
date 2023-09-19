@@ -76,7 +76,7 @@
         tasks: ["Got insight into cyber, physical, and operational security domains",
     
     ],
-        tags: ["Hackathon",],
+        tags:  ["Security Conference",],
       },    
    
     ];
