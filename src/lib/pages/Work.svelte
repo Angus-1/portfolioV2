@@ -41,9 +41,9 @@
       endDate: new Date(2023, 8),
       
       tasks: [
-        "Develop REST API automation scripts that extracted relevant data from the Active Directory to implement cyber hygiene practices, effectively eliminating inactive accounts from Niagara's primary ticketing application and improving system performance of an enterprise level application",
+        "Develop customized Python/PowerShell scripts, streamlining internal Niagara application processes and reducing manual tasks",
+        "-Conduct cybersecurity audits, assessing user group permissions and their impact on security measures",
         "Create and document repeatable processes and tools for IT System Admin and SOC team",
-        "Develop a comprehensive master document detailing the implementation of Duo multifactor authentication across diverse user groups and applications in the network. Examined varying permission levels and their implications for cybersecurity measures."
       ],
       tags: [
         "",
