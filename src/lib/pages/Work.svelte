@@ -38,7 +38,7 @@
       employer: "Niagara Bottling",
       title: "IT Infrastructure Intern",
       startDate: new Date(2023, 4),
-      endDate: new Date(2023, 8),
+      endDate: new Date(2023, 12),
       
       tasks: [
         "Develop customized Python/PowerShell scripts, streamlining internal Niagara application processes and reducing manual tasks",
