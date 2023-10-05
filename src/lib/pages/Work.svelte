@@ -58,7 +58,7 @@
       tasks: [
         "Used ssh to connect to Linux servers and manually create/script oracle 19c prototype database applications",
         "Configured databases for backup and recovery using oracle's built in proprietary RMAN(recovery manager) to protect against data loss",
-        "Researched oracle database architecture, as well as the many occuring processes inside a server instance",        
+        "Monitor database performance, implement changes and apply new patches and versions when required",        
       ],
       tags: [
         "Oracle",
