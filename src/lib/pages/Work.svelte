@@ -42,7 +42,7 @@
       
       tasks: [
         "Develop customized Python/PowerShell scripts, streamlining internal Niagara application processes and reducing manual tasks",
-        "-Conduct cybersecurity audits, assessing user group permissions and their impact on security measures",
+        "Conduct cybersecurity audits, assessing user group permissions and their impact on security measures",
         "Create and document repeatable processes and tools for IT System Admin and SOC team",
       ],
       tags: [
