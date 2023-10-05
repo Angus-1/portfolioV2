@@ -46,7 +46,7 @@
         "Create and document repeatable processes and tools for IT System Admin and SOC team",
       ],
       tags: [
-        "",
+        "Python","Powershell","Cybersecurity",
       ],
     },
     {
