@@ -69,7 +69,8 @@
     
     ],
         tags: ["Security Conference",],
-      },     {
+      },
+      {
         event: "Converge Security Conference", 
         title: "attendee", 
         date: new Date(2023, 9),  
@@ -78,13 +79,22 @@
     ],
         tags:  ["Security Conference",],
       },    
+      {
+        event: "Fully Hacks 2024", 
+        title: "Operations Manager", 
+        date: new Date(2023, 9),  
+        tasks: ["Oversee and plan and logistical aspects for upcoming FullyHacks 2024",
+    
+    ],
+        tags:  ["Hackathon",],
+      },  
    
     ];
   
     export let backgroundClass = neutralBackground;
   </script>
   
-  <Page id="events" title="Events attended" {backgroundClass}>
+  <Page id="events" title="Events" {backgroundClass}>
     <div
       class="container mx-auto grid max-w-screen-xl gap-4 md:grid-cols-1 xl:grid-cols-2 3xl:grid-cols-4"
     >
