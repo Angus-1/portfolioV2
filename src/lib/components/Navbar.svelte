@@ -38,16 +38,16 @@
       title: "Projects",
     },
     {
-      id: "#events",
-      route: "/events",
-      name: "events",
-      title: "Events",
-    },
-    {
       id: "#skills",
       route: "/skills",
       name: "skills",
       title: "Skills",
+    },
+    {
+      id: "#events",
+      route: "/events",
+      name: "events",
+      title: "Events",
     },
     {
       id: "#about",
