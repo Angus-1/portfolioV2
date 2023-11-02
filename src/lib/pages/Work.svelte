@@ -46,7 +46,7 @@
         "Create and document repeatable processes and tools for IT System Admin and SOC team",
       ],
       tags: [
-        "Python","Powershell","Cybersecurity",
+        "Python","Powershell","Active Directory","Cybersecurity",
       ],
     },
     {
@@ -63,8 +63,6 @@
       tags: [
         "Oracle",
         "Databases",
-        "Backup and recovery",
-        "Configuration",
         "Linux"
       ],
     },
@@ -85,7 +83,7 @@
   export let backgroundClass = neutralBackground;
 </script>
 
-<Page id="work" title="Work Experience" {backgroundClass}>
+<Page id="work" title="Experience" {backgroundClass}>
   <div
     class="container mx-auto grid max-w-screen-xl gap-4 md:grid-cols-1 xl:grid-cols-2 3xl:grid-cols-4"
   >
