@@ -59,7 +59,7 @@ export const projects = [
 		heading: 'chadGPT',
 		content:
 			"chatGPT chatbot that acts like a giga chad, hence the name chadGPT",
-		link: 'https://chadgpt.monkeyy.net/',
+		link: 'https://chadgptz.vercel.app/',
 		image: 'projects/chadGPT.png',
 	},
 	{
