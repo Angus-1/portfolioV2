@@ -36,7 +36,7 @@
   const jobs: Array<Job> = [
     {
       employer: "Niagara Bottling",
-      title: "IT Infrastructure Intern",
+      title: "IT Intern",
       startDate: new Date(2023, 4),
       endDate: new Date(2023, 12),
       
