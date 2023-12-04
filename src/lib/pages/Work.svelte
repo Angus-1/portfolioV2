@@ -42,8 +42,9 @@
       
       tasks: [
         "Develop customized Python/PowerShell scripts, streamlining internal Niagara application processes and reducing manual tasks",
-        "Conduct cybersecurity audits, assessing user group permissions and their impact on security measures",
+        "Perform system audits, assessing user group permissions and their impact on security measures",
         "Create and document repeatable processes and tools for IT System Admin and SOC team",
+        "Conduct proactive threat analysis/response using Endpoint Detection and Response (EDR) to identify and neutralize potential cyber threats before they could escalate"
       ],
       tags: [
         "Python","Powershell","Active Directory","Cybersecurity",
