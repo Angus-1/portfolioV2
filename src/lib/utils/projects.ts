@@ -42,25 +42,11 @@ export const projects = [
 		image: 'projects/idea.png',
 	},
 	{
-		heading: 'Serverless File storage',
-		content:
-			"Create an account to upload/download files from any device",
-		link: 'https://filey.vercel.app/login',
-		image: 'projects/filey.png',
-	},
-	{
 		heading: 'Chat Pigeon',
 		content:
 			"A simple chat forum with google sign-in authentication.",
 		link: 'https://chatpigeon.vercel.app/',
 		image: 'projects/chat.png',
-	},
-	{
-		heading: 'chadGPT',
-		content:
-			"chatGPT chatbot that acts like a giga chad, hence the name chadGPT",
-		link: 'https://chadgptz.vercel.app/',
-		image: 'projects/chadGPT.png',
 	},
 	{
 		heading: 'Resources',
