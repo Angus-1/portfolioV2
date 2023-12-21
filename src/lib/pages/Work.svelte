@@ -36,9 +36,21 @@
   const jobs: Array<Job> = [
     {
       employer: "Niagara Bottling",
+      title: "Information Technology systems",
+      startDate: new Date(2024, 0),
+      endDate: new Date(2024, 0),
+      
+      tasks: [
+        "",
+      ],
+      tags: [
+      ],
+    },
+    {
+      employer: "Niagara Bottling",
       title: "IT Intern",
       startDate: new Date(2023, 4),
-      endDate: new Date(2023, 12),
+      endDate: new Date(2023, 11),
       
       tasks: [
         "Develop customized Python/PowerShell scripts, streamlining internal Niagara application processes and reducing manual tasks",
