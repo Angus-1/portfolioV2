@@ -15,7 +15,9 @@
     "Tailwind",
     "SQL",
     "Firebase",
-    "Active Directory"
+    "Active Directory",
+    "Powershell",
+    "Bash"
   ];
 
   export let backgroundClass = neutralBackground;
