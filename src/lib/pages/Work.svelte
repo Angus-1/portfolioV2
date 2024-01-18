@@ -36,30 +36,19 @@
   const jobs: Array<Job> = [
     {
       employer: "Niagara Bottling",
-      title: "Information Technology systems",
-      startDate: new Date(2024, 0),
-      endDate: new Date(2024, 0),
-      
-      tasks: [
-        "",
-      ],
-      tags: [
-      ],
-    },
-    {
-      employer: "Niagara Bottling",
-      title: "IT Intern",
+      title: "Information Technology",
       startDate: new Date(2023, 4),
-      endDate: new Date(2023, 11),
+      endDate: currentDate,
       
       tasks: [
         "Develop customized Python/PowerShell scripts, streamlining internal Niagara application processes and reducing manual tasks",
         "Perform system audits, assessing user group permissions and their impact on security measures",
-        "Create and document repeatable processes and tools for IT System Admin and SOC team",
-        "Conduct proactive threat analysis/response using Endpoint Detection and Response (EDR) to identify and neutralize potential cyber threats before they could escalate"
+        "Conduct proactive threat analysis/response using Endpoint Detection and Response (EDR) to identify and neutralize potential threats",
+        "Provision and configure user accounts & IoT devices for company resources and internal systems including AD, WMS, Oracle, Cisco",
+        "Utilize Microsoft Deployment Toolkit to automate the deployment of hardware within the company.",
       ],
       tags: [
-        "Python","Powershell","Active Directory","Cybersecurity",
+        "Python","Powershell","Active Directory","Cybersecurity","IT"
       ],
     },
     {
