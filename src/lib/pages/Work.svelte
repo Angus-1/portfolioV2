@@ -45,7 +45,7 @@
         "Perform system audits, assessing user group permissions and their impact on security measures",
         "Conduct proactive threat analysis/response using Endpoint Detection and Response (EDR) to identify and neutralize potential threats",
         "Provision and configure user accounts & IoT devices for company resources and internal systems including AD, WMS, Oracle, Cisco, Duo MFA",
-        "Utilize Microsoft Deployment Toolkit to automate the deployment of hardware within the company.",
+        "Utilize Microsoft Deployment Toolkit to automate the deployment of hardware",
       ],
       tags: [
         "Python","Powershell","Active Directory","Cybersecurity","IT"
