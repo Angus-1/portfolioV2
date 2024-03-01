@@ -72,7 +72,7 @@
       employer: "Association for Computing Machinery, CSU-Fullerton",
       title: "Development Officer",
       startDate: new Date(2022, 3),
-      endDate: new Date(2022, 7),
+      endDate: currentDate,
       tasks: [
         "Delivered weekly educational workshops to students on various topics such in web development, such as leveraging APIs and understanding HTTP",
         "Oversaw semester-long projects and offered technical advice to aid team members in completing their personal projects ",
