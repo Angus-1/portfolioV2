@@ -10,8 +10,8 @@
   id="bg">
   <div class="text-center">
       <h1 class="text-6xl m-6 {color} font-light">Hi, I'm Angel.</h1>
-      <p class="text-xl m-2">   🔹 California State University, Fullerton Alumni 🔸  </p> <br>
-
+      <p class="text-2xl m-2"> 💻 Aspiring Software/Security Engineer 📱 </p> <br> 
+      <p class="text-xl m-2">   🔹 California State University, Fullerton 🔸  </p> <br>
 
   </div>
     <Socials color="white" sizeClass="h-8 w-8"/>

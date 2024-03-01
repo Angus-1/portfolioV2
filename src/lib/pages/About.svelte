@@ -19,9 +19,9 @@
                <div class = "header-image">   <img src = 'profile.png'width="250px"  alt=linkedin/>    </div>                  
                <div class="about-subtitle">
                    
-                  Hello! I'm a CSUF computer science alumni. <br><br><br>
+                  Hello! I'm a CSUF computer science grad student. <br><br><br>
                   
-                 My interests include software development, and cybersecurity. I currently work in the IT field at Niagara Bottling. <br><br><br>
+                 My interests include software development, and cybersecurity. I currently work in IT at Niagara bottling. <br><br><br>
 
 
                  In my free time I like to lift weights, go dancing, see live music, play video games, learn about cars, and try new foods. My favorite game is the Elder Scrolls series and my favorite food is Sushi! <br><br>
