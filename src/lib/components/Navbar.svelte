@@ -43,12 +43,7 @@
       name: "skills",
       title: "Skills",
     },
-    {
-      id: "#events",
-      route: "/events",
-      name: "events",
-      title: "Events",
-    },
+   
     {
       id: "#about",
       route: "/about",

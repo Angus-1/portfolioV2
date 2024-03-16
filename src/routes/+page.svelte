@@ -7,7 +7,7 @@
   import Home from "$lib/pages/Home.svelte";
   import Work from "$lib/pages/Work.svelte";
   import Projects from "$lib/pages/Projects.svelte";
-  import Events from "$lib/pages/Events.svelte";
+  //import Events from "$lib/pages/Events.svelte";
   import Skills from "$lib/pages/Skills.svelte";
   import About from "$lib/pages/About.svelte";
   import Footer from "$lib/pages/Footer.svelte";
