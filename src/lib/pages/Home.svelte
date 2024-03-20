@@ -10,7 +10,7 @@
   id="bg">
   <div class="text-center">
       <h1 class="text-6xl m-6 {color} font-light">Hi, I'm Angel.</h1>
-      <p class="text-2xl m-2"> 💻  Information Technology specialist  📱</p> <br> 
+      <p class="text-2xl m-2"> 💻  Information Technology  📱</p> <br> 
       <p class="text-xl m-2">   🔹 California State University, Fullerton Graduate Student🔸  </p> <br>
 
   </div>
