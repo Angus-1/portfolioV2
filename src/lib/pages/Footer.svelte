@@ -1,6 +1,8 @@
 <script lang="ts">
   import Footer from "$lib/components/Footer.svelte";
 import Socials from "$lib/components/Socials.svelte";
+let year =  new Date().getFullYear();
+
 </script>
 <Footer id="Footer" >
 
@@ -16,7 +18,7 @@ import Socials from "$lib/components/Socials.svelte";
     <div class='w-full h-px m-auto bg-gradient-to-r from-transparent via-gray-700 to-transparent'></div>
     <div class='flex flex-col items-center md:flex-row md:justify-between'>
       <div class=copyright>
-        <p>  &#169; 2022 </p>
+        <p>  &#169; {year} </p>
       </div>  
       <Socials color="white"/>
     </div>
