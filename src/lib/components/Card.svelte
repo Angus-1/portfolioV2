@@ -7,7 +7,7 @@
 </script>
 
 <div
-  class="flex flex-col justify-between overflow-hidden shadow-xl bg-neutral-50 dark:bg-neutral-800 rounded-xl"
+  class="flex flex-col justify-between overflow-hidden shadow-xl bg-zinc-50 dark:bg-zinc-800 rounded-xl"
 >
   <div class="px-6 py-4 break-words">
     {#if title}
@@ -33,7 +33,7 @@
       <div class="px-6 pt-4 pb-2 align-bottom">
         {#each tags as tag}
           <span
-            class="inline-block px-4 py-1 mb-2 mr-2 text-sm font-semibold rounded-full bg-primary-300 dark:bg-primary-700"
+            class="inline-block px-4 py-1 mb-2 mr-2 text-sm font-semibold rounded-full bg-primary-300 dark:bg-zinc-600"
           >
             {tag}
           </span>

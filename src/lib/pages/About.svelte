@@ -38,7 +38,7 @@
 
 .about-container {
       position: relative;
-      background-color: #1F2937; 
+      background-color: #252628; 
       background-position-x: right; 
       border-radius: 10px;
       padding-left: 20px;
@@ -66,7 +66,7 @@
   margin-left:2rem;
   float:left;
   margin-right:15px;
-  border-color:#4370d1;
+  border-color:#858789;
   border-width: 4px;
  }
 </style>

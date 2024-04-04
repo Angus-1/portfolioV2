@@ -27,6 +27,20 @@ export const projects = [
 		image: 'projects/game.png',
 	},
 	{
+		heading: 'Chat Pigeon',
+		content:
+			"A simple chat forum with google sign-in authentication.",
+		link: 'https://chatpigeon.vercel.app/',
+		image: 'projects/chat.png',
+	},
+	{
+		heading: 'Resources',
+		content:
+			"A list of resources I've found useful or interesting.",
+		link: 'https://list.angs.dev/',
+		image: 'projects/resources.png',
+	},	
+	{
 		heading: 'Pixel Painter',
 		content:
 			"Paint pixels on a 16x16 grid and export your art as an image/svg",
@@ -41,20 +55,7 @@ export const projects = [
 		link: 'https://fun--finder.vercel.app/',
 		image: 'projects/idea.png',
 	},
-	{
-		heading: 'Chat Pigeon',
-		content:
-			"A simple chat forum with google sign-in authentication.",
-		link: 'https://chatpigeon.vercel.app/',
-		image: 'projects/chat.png',
-	},
-	{
-		heading: 'Resources',
-		content:
-			"A list of resources I've found useful or interesting.",
-		link: 'https://list.angs.dev/',
-		image: 'projects/resources.png',
-	},	
+	
 	
 	
 	

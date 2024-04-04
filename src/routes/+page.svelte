@@ -13,8 +13,8 @@
   import Footer from "$lib/pages/Footer.svelte";
 
 /* basic colors at  https://tailwindcss.com/docs/customizing-colors   more at  https://hypercolor.dev/   */ 
-  let primaryBackground = "bg-gradient-to-r from-slate-900 to-blue-900";
-  let neutralBackground = "bg-neutral-200 dark:bg-neutral-900";
+  let primaryBackground = "bg-zinc-900 dark:bg-zinc-900";
+  let neutralBackground = "bg-zinc-900 dark:bg-zinc-900";
 </script>
 
 <SEO
@@ -26,8 +26,8 @@
 <Home />
 
 <Work backgroundClass={neutralBackground} />
-<Projects backgroundClass={primaryBackground}  />
-<Skills backgroundClass={primaryBackground} />
+<!-- <Projects backgroundClass={primaryBackground}  /> -->
+<!-- <Skills backgroundClass={primaryBackground} /> -->
 <!-- <Events backgroundClass={neutralBackground} /> -->
 <About backgroundClass={neutralBackground} />
 

@@ -1,13 +1,11 @@
 <script lang="ts">
   import Footer from "$lib/components/Footer.svelte";
-  import Socials from "$lib/components/Socials.svelte";
-  let year =  new Date().getFullYear();
-
+import Socials from "$lib/components/Socials.svelte";
 </script>
 <Footer id="Footer" >
 
   <footer id="theme" class='bottom-0 left-0 flex flex-col w-full gap-4 px-14 py-16 md:gap-10'>
-    <div class='w-full h-px m-auto bg-gradient-to-r from-transparent via-blue-400 to-transparent'></div>
+    <div class='w-full h-px m-auto bg-gradient-to-r from-transparent via-gray-400 to-transparent'></div>
     <div class='flex flex-col items-center gap-8 md:justify-between md:flex-row'>
       <div class='flex flex-col gap-1'>
         <footer>
@@ -18,9 +16,9 @@
     <div class='w-full h-px m-auto bg-gradient-to-r from-transparent via-gray-700 to-transparent'></div>
     <div class='flex flex-col items-center md:flex-row md:justify-between'>
       <div class=copyright>
-        <p>  &#169; {year} </p>
+        <p>  &#169; 2022 </p>
       </div>  
-      <Socials/>
+      <Socials color="white"/>
     </div>
   </footer>
     
@@ -47,14 +45,14 @@
     .footer-content p{
       max-width: 500px;
       margin: 10px auto;
-      color: rgb(131, 176, 204);
+      color: #1f2021;
       
     } 
     #theme {
-    --primary: #1f2937;
-    --comp-primary: #f3f4f6;
+    --primary: #1f2021;
+    --comp-primary: #1f2021;
     --white: white;
-    --gray-200: #374151;
+    --gray-200: #1f2021;
     --black: black;
     }
     footer {

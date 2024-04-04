@@ -31,18 +31,18 @@
       name: "work",
       title: "Experience",
     },
-    {
-      id: "#projects",
-      route: "/projects",
-      name: "projects",
-      title: "Projects",
-    },
-    {
-      id: "#skills",
-      route: "/skills",
-      name: "skills",
-      title: "Skills",
-    },
+    // {
+    //   id: "#projects",
+    //   route: "/projects",
+    //   name: "projects",
+    //   title: "Projects",
+    // },
+    // {
+    //   id: "#skills",
+    //   route: "/skills",
+    //   name: "skills",
+    //   title: "Skills",
+    // },
    
     {
       id: "#about",
@@ -54,14 +54,14 @@
   const menuDuration = 200;
   let open = false;
   let colors = {
-    nav: "bg-neutral-300 dark:bg-neutral-800",
+    nav: "bg-zinc-300 dark:bg-zinc-900",
     button: {
       active:
-        "bg-primary-200 hover:bg-primary-300 dark:bg-primary-800 dark:hover:bg-primary-700 shadow-md",
+        "bg-zinc-200 hover:bg-zinc-300 dark:bg-zinc-800 dark:hover:bg-zinc-700 shadow-md",
       inactive:
-        "bg-neutral-50 hover:bg-neutral-200 dark:bg-neutral-700 dark:hover:bg-neutral-600 shadow-md",
+        "bg-zinc-50 hover:bg-zinc-200 dark:bg-zinc-700 dark:hover:bg-zinc-600 shadow-md",
     },
-    buttonText: "text-neutral-800 dark:text-neutral-200",
+    buttonText: "text-zinc-800 dark:text-zinc-200",
   };
 
   let activeHash = "";

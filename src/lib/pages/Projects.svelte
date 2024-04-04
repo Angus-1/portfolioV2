@@ -53,7 +53,9 @@
 
 <style>
 
-
+ #bg{
+    background-color: #0f0f10;
+       }
  ul {
 		list-style: none;
 		padding: 0;
@@ -62,7 +64,7 @@
 		color:  #ffffff;
 		font-size: 1.5rem;
     font-weight:bold;
-    background-color:#0e213b;
+    background-color:#1f1f20;
     border-radius: 10px;
     
 	}
@@ -70,19 +72,19 @@
 	li {
 		margin-bottom: 0em;
     border-radius: 10px; 
-    border-bottom: 1px solid #6B91A4;
+    border-bottom: 1px solid #6b6f71;
 
 	}
 	
 	.header {
 		padding: 0.3em;
 		display: flex;
-    background-color: #1F2937;
+    background-color: #252628;
     border-radius: 10px;
     
 	}
   .header:hover{
-    background-color: #2b3d57;
+    background-color: #1d1e1f;
   }
  
   
@@ -118,7 +120,7 @@
       
   }
   .image-hover:hover{
-    box-shadow: 5px 10px 15px #89d9ff;
+    box-shadow: 5px 10px 15px #e7e8e9;
     border-radius:10px;
 	}
 

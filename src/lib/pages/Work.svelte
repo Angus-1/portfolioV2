@@ -58,9 +58,10 @@
       endDate: new Date(2022, 8),
       
       tasks: [
-        "Used ssh to connect to Linux servers and manually create/script oracle 19c prototype database applications",
-        "Configured databases for backup and recovery using oracle's built in proprietary RMAN(recovery manager) to protect against data loss",
-        "Monitor database performance, implement changes and apply new patches and versions when required",        
+        "Coordinate with a team of database developers and engineers to manage a multi-instance Oracle database server environment",
+        "Leverage Secure Shell (SSH) protocols to establish secure connections with Linux servers hosting Oracle databases, Configured and maintained the Oracle databases on these servers through the established SSH connections",
+        "Provide support for database configuration and disaster recovery using Recovery Manager (RMAN)",
+        "Conduct installations, updates, configuration, and maintenance for Oracle database 19C including analyzing complex SQL queries" 
       ],
       tags: [
         "Oracle",

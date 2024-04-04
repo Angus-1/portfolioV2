@@ -2,7 +2,7 @@
     import IconButton from "$lib/components/IconButton.svelte";
 
     export let color = "text-blue-300";
-    let hover = "sm:hover:text-primary-500";
+    let hover = "sm:hover:text-blue-300";
 
     let colorClass = `${color} ${hover}`;
     let spacingClass = "mx-5";

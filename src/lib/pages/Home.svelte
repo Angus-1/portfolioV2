@@ -1,24 +1,27 @@
 <script lang="ts">
-  import Anchor from "$lib/components/Anchor.svelte";
+  import Page from "$lib/components/Page.svelte";
   import Socials from "$lib/components/Socials.svelte";
-  let color = "text-grey-200";
-</script>
+  import { neutralBackground } from "$lib/utils/constants";
 
-<Anchor id="home" />
+  let color = "text-grey-200"; 
+  export let backgroundClass = neutralBackground;
+
+</script>
+<Page id="home"  {backgroundClass}> 
+
 <div
-  class="flex flex-col items-center justify-center bg-center bg-no-repeat bg-cover page lg:bg-fixed bg-neutral-600 bg-blend-soft-light dark:bg-blend-soft-light dark:bg-neutral-700"
-  id="bg">
+  class="flex flex-col items-center justify-center bg-center bg-no-repeat bg-cover page lg:bg-fixed"
+   >
   <div class="text-center">
       <h1 class="text-6xl m-6 {color} font-light">Hi, I'm Angel.</h1>
-      <p class="text-2xl m-2"> 💻  Information Technology  📱</p> <br> 
-      <p class="text-xl m-2">   🔹 California State University, Fullerton Graduate Student🔸  </p> <br>
+      <p class="text-2xl m-2">   Information Technology Professional </p> <br> 
+      <p class="text-xl m-2">    California State University, Fullerton Graduate Student  </p> <br>
 
   </div>
+
     <Socials color="white" sizeClass="h-8 w-8"/>
 </div>
-
+</Page>
 <style>
-  #bg{
-    background-image: radial-gradient(circle,#2064e2, #16519e,#26434b);  
-   }
+
 </style>
